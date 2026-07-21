@@ -1,1 +1,2 @@
 A
+added new line from A branch
